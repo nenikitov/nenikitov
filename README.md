@@ -1,0 +1,2 @@
+[![NeNikitov's GitHub stats](https://github-readme-stats.vercel.app/api?username=nenikitov&count_private=true&show_icons=true&title_color=30CCBC&text_color=fff&icon_color=cc3086&bg_color=45,101010,1f1f1f)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nenikitov&layout=compact&title_color=30CCBC&text_color=fff&bg_color=45,101010,1f1f1f)](https://github.com/anuraghazra/github-readme-stats)
