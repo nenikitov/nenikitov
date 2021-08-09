@@ -22,7 +22,7 @@
     <img width='89.11%' src='https://github-readme-streak-stats.herokuapp.com/?user=nenikitov&hide_border=true&background=0D1117&stroke=30CCBC&ring=30CCBC&fire=CC3086&currStreakNum=CC3086&sideNums=FFF&currStreakLabel=30CCBC&sideLabels=CC3086&dates=BFBFBF'>
 </div>
 
-> Thanks to the contributors of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats), [github-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph#customization), and [github-readme-stats](https://github.com/DenverCoder1/github-readme-streak-stats) for creating the tools to display these graphs.
+> Thanks to the contributors of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats), [github-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph#customization), and [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) for creating the tools to display these graphs.
 
 ## Even more graphs
 Even more detailed statistics are available by visiting [this link](https://profile-summary-for-github.com/user/nenikitov "More stats about my profile").
