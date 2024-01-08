@@ -1,15 +1,14 @@
-<style>
-summary h2 {
-    display: inline-block;
-    width: calc(100% - 1ch);
-}
-</style>
-
 <div align="center">
 
 # Hey, I'm Mykyta
 
 Self-taught programmer with experience in front- and back-end development, applications, and reverse engineering
+
+</div>
+
+<div align="right">
+
+![Profile views](https://komarev.com/ghpvc/?username=nenikitov&style=for-the-badge&color=blue)
 
 </div>
 
@@ -23,265 +22,71 @@ Self-taught programmer with experience in front- and back-end development, appli
 
 ### Programming
 
-<style>
-    @import "https://www.nerdfonts.com/assets/css/webfont.css";
-
-    .skill {
-        margin: 0.1em;
-        display: inline-flex;
-        background-color: #0C0F15;
-        color: #CFD5DB;
-        border-radius: 0.5em;
-        align-items: center;
-        height: 2em;
-        overflow: hidden;
-    }
-    .skill .nf {
-        border-radius: 0.5em;
-        color: white;
-        width: 2em;
-        padding: 0.5em 0em;
-        text-align: center;
-    }
-    .skill .name {
-        text-transform: uppercase;
-        font-weight: bold;
-        font-size: 0.85em;
-        line-height: 1;
-        margin-top: 0.25em;
-        padding: 0em 0.5em;
-    }
-
-    .rust .nf {
-        background-color: #DEA584;
-    }
-    .ts .nf {
-        background-color: #3178C6;
-    }
-    .js .nf {
-        background-color: #F1E05A;
-    }
-    .lua .nf {
-        background-color: #175EAE;
-    }
-    .py .nf {
-        background-color: #3572A5;
-    }
-    .cpp .nf {
-        background-color: #F34B7D;
-    }
-    .c .nf {
-        background-color: #555555;
-    }
-    .cs .nf {
-        background-color: #178600;
-    }
-    .kt .nf {
-        background-color: #A97BFF;
-    }
-    .java .nf {
-        background-color: #B07219;
-    }
-    .sh .nf {
-        background-color: #89E051;
-    }
-
-    .md .nf {
-        background-color: #083FA1;
-    }
-    .html .nf {
-        background-color: #E34C26;
-    }
-    .css .nf {
-        background-color: #563D7C;
-    }
-    .scss .nf {
-        background-color: #C6538C;
-    }
-
-    .toml .nf {
-        background-color: #9C4221;
-    }
-    .xml .nf {
-        background-color: #0060AC;
-    }
-    .json .nf {
-        background-color: #292929;
-    }
-    .yml .nf {
-        background-color: #CB171E;
-    }
-
-    .nvim .nf {
-        background-color: #199F4B;
-    }
-    .docker .nf {
-        background-color: #384D54;
-    }
-    .git .nf {
-        background-color: #F44D27;
-    }
-    .linux .nf {
-        background-color: #1382BB;
-    }
-    .blend .nf {
-        background-color: #E5651E;
-    }
-    .unreal .nf {
-        background-color: #2C2C2C;
-    }
-</style>
-
-<span class="skill rust">
-    <span class="nf nf-dev-rust"></span>
-    <span class="name">rust</span>
-</span><!--
---><span class="skill ts">
-    <span class="nf nf-md-language_typescript"></span>
-    <span class="name">typescript</span>
-</span><!--
---><span class="skill js">
-    <span class="nf nf-dev-javascript_badge"></span>
-    <span class="name">javascript</span>
-</span><!--
---><span class="skill lua">
-    <span class="nf nf-seti-lua"></span>
-    <span class="name">lua</span>
-</span><!--
---><span class="skill py">
-    <span class="nf nf-dev-python"></span>
-    <span class="name">python</span>
-</span><!--
---><span class="skill cpp">
-    <span class="nf nf-custom-cpp"></span>
-    <span class="name">cpp</span>
-</span><!--
---><span class="skill c">
-    <span class="nf nf-custom-c"></span>
-    <span class="name">c</span>
-</span><!--
---><span class="skill cs">
-    <span class="nf nf-md-language_csharp"></span>
-    <span class="name">c#</span>
-</span><!--
---><span class="skill kt">
-    <span class="nf nf-custom-kotlin"></span>
-    <span class="name">kotlin</span>
-</span><!--
---><span class="skill java">
-    <span class="nf nf-dev-java"></span>
-    <span class="name">java</span>
-</span><!--
---><span class="skill sh">
-    <span class="nf nf-md-bash"></span>
-    <span class="name">bash</span>
-</span><!--
--->
+![Rust](https://img.shields.io/badge/rust-DEA584?style=for-the-badge&logo=rust&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F1E05A?style=for-the-badge&logo=javascript&logoColor=black)
+![Lua](https://img.shields.io/badge/lua-000080?style=for-the-badge&logo=lua&logoColor=white)
+![Python](https://img.shields.io/badge/python-3572A5?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/c%2B%2B-F34B7D?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-178600?style=for-the-badge&logo=csharp&logoColor=white)
+![C](https://img.shields.io/badge/c-555555?style=for-the-badge&logo=c&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-A97BFF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Bash](https://img.shields.io/badge/bash-89E051?style=for-the-badge&logo=gnubash&logoColor=black)
 
 ### Markup
 
-<span class="skill md">
-    <span class="nf nf-dev-markdown"></span>
-    <span class="name">markdown</span>
-</span><!--
---><span class="skill html">
-    <span class="nf nf-dev-html5"></span>
-    <span class="name">html</span>
-</span><!--
---><span class="skill scss">
-    <span class="nf nf-md-sass"></span>
-    <span class="name">scss</span>
-</span><!--
---><span class="skill css">
-    <span class="nf nf-dev-css3"></span>
-    <span class="name">css</span>
-</span><!--
--->
+![Markdown](https://img.shields.io/badge/markdown-083FA1?style=for-the-badge&logo=markdown&logoColor=white)
+![HTML](https://img.shields.io/badge/html-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![SCSS](https://img.shields.io/badge/scss-C6538C?style=for-the-badge&logo=sass&logoColor=white)
+![CSS](https://img.shields.io/badge/css-563D7C?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Frameworks
 
-<span class="skill ts">
-    <span class="nf nf-md-react"></span>
-    <span class="name">react</span>
-</span><!--
---><span class="skill py">
-    <span class="nf nf-dev-django"></span>
-    <span class="name">django</span>
-</span><!--
--->
+![NestJS](https://img.shields.io/badge/nestjs-3178C6?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/express-F1E05A?style=for-the-badge&logo=express&logoColor=black)
+![Django](https://img.shields.io/badge/django-3572A5?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/react-3178C6?style=for-the-badge&logo=react&logoColor=white)
 
 ### Other languages
 
-<span class="skill toml">
-    <span class="nf nf-custom-toml"></span>
-    <span class="name">toml</span>
-</span><!--
---><span class="skill yml">
-    <span class="nf nf-seti-yml"></span>
-    <span class="name">yaml</span>
-</span><!--
---><span class="skill json">
-    <span class="nf nf-seti-json"></span>
-    <span class="name">json</span>
-</span><!--
---><span class="skill xml">
-    <span class="nf nf-md-xml"></span>
-    <span class="name">xml</span>
-</span><!--
--->
+![TOML](https://img.shields.io/badge/toml-9C4221?style=for-the-badge&logo=toml&logoColor=white)
+![YAML](https://img.shields.io/badge/yaml-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
+![JSON](https://img.shields.io/badge/json-292929?style=for-the-badge&logo=json&logoColor=white)
+![XML](https://img.shields.io/badge/%3C%3E%20%20xml-0060AC?style=for-the-badge)
 
 ### Tools
 
-<span class="skill linux">
-    <span class="nf nf-linux-archlinux"></span>
-    <span class="name">linux</span>
-</span><!--
---><span class="skill nvim">
-    <span class="nf nf-custom-neovim"></span>
-    <span class="name">neovim</span>
-</span><!--
---><span class="skill blend">
-    <span class="nf nf-md-blender_software"></span>
-    <span class="name">blender</span>
-</span><!--
---><span class="skill unreal">
-    <span class="nf nf-md-unreal"></span>
-    <span class="name">unreal engine</span>
-</span><!--
---><span class="skill docker">
-    <span class="nf nf-md-docker"></span>
-    <span class="name">docker</span>
-</span><!--
---><span class="skill git">
-    <span class="nf nf-dev-git"></span>
-    <span class="name">git</span>
-</span><!--
--->
+![Linux](https://img.shields.io/badge/linux-1382BB?style=for-the-badge&logo=archlinux&logoColor=white)
+![NeoVim](https://img.shields.io/badge/linux-199F4B?style=for-the-badge&logo=neovim&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-E5651E?style=for-the-badge&logo=blender&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/unreal%20engine-2C2C2C?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-384D54?style=for-the-badge&logo=docker&logoColor=white)
 
 </details>
 
-## Stats about my profile
-
 <details>
-<summary>Click to reveal</summary>
 
-### Profile Stats
+<summary><h2>Stats about my profile</h2></summary>
 
-> Note that the **"Most Used Languages"** graph does not represent my skill level. It is just a measurement of what languages I used to write the code I published on GitHub.
+More detailed statistics [here](https://profile-summary-for-github.com/user/nenikitov "More stats about my profile").
+
 
 <div align='center'>
-    <!----><img width='54.43%' src='https://github-readme-stats.vercel.app/api?username=nenikitov&count_private=true&show_icons=true&hide_border=true&border_radius=10&title_color=30CCBC&text_color=fff&icon_color=cc3086&bg_color=90,000,0D1117'><!--
-    ------><img width='45.57%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=nenikitov&layout=compact&hide_border=true&border_radius=10&title_color=30CCBC&text_color=fff&bg_color=90,000,0D1117'>
-</div>
-<div align='center'>
-    <!--<img width='100%' src='https://activity-graph.herokuapp.com/graph?username=nenikitov&hide_border=true&area=true&bg_color=0D1117&area_color=30CCBC&color=FFFFFF&line=CC3086&point=30CCBC'>-->
-</div>
-<div align='center'>
-    <img width='89.11%' src='https://github-readme-streak-stats.herokuapp.com/?user=nenikitov&hide_border=true&background=0D1117&stroke=30CCBC&ring=30CCBC&fire=CC3086&currStreakNum=CC3086&sideNums=FFF&currStreakLabel=30CCBC&sideLabels=CC3086&dates=BFBFBF'>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nenikitov&count_private=true&show_icons=true&hide_border=true&theme=dark#gh-dark-mode-only)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nenikitov&count_private=true&show_icons=true&hide_border=true&theme=default#gh-light-mode-only)
+
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nenikitov&layout=compact&hide_border=true&theme=dark#gh-dark-mode-only)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nenikitov&layout=compact&hide_border=true&theme=default#gh-light-mode-only)
+
+![Commit streak](https://streak-stats.demolab.com?user=nenikitov&hide_border=true&theme=dark#gh-dark-mode-only)
+![Commit streak](https://streak-stats.demolab.com?user=nenikitov&hide_border=true&theme=default#gh-light-mode-only)
+
 </div>
 
-> Thanks to the contributors of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats), [github-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph#customization), and [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) for creating the tools to display these graphs.
+Thanks to the contributors of these projects for creating these amazing trackers:
+- [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+- [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+- [github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter)
 
-## Even more graphs
-Even more detailed statistics are available by visiting [this link](https://profile-summary-for-github.com/user/nenikitov "More stats about my profile").
 </details>
