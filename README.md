@@ -73,14 +73,50 @@ More detailed statistics [here](https://profile-summary-for-github.com/user/neni
 
 <div align='center'>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nenikitov&count_private=true&show_icons=true&hide_border=true&theme=dark#gh-dark-mode-only)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nenikitov&count_private=true&show_icons=true&hide_border=true&theme=default#gh-light-mode-only)
+<picture>
+    <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://github-readme-stats.vercel.app/api?username=nenikitov&count_private=true&show_icons=true&hide_border=true&theme=dark"
+    />
+    <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://github-readme-stats.vercel.app/api?username=nenikitov&count_private=true&show_icons=true&hide_border=true&theme=default"
+    />
+    <img
+        alt="GitHub stats"
+        src="https://github-readme-stats.vercel.app/api?username=nenikitov&count_private=true&show_icons=true&hide_border=true"
+    >
+</picture>
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nenikitov&layout=compact&hide_border=true&theme=dark#gh-dark-mode-only)
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nenikitov&layout=compact&hide_border=true&theme=default#gh-light-mode-only)
+<picture>
+    <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nenikitov&layout=compact&hide_border=true&theme=dark"
+    />
+    <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nenikitov&layout=compact&hide_border=true&theme=default"
+    />
+    <img
+        alt="Most used languages"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=nenikitov&layout=compact&hide_border=true"
+    >
+</picture>
 
-![Commit streak](https://streak-stats.demolab.com?user=nenikitov&hide_border=true&theme=dark#gh-dark-mode-only)
-![Commit streak](https://streak-stats.demolab.com?user=nenikitov&hide_border=true&theme=default#gh-light-mode-only)
+<picture>
+    <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://streak-stats.demolab.com?user=nenikitov&hide_border=true&theme=dark"
+    />
+    <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://streak-stats.demolab.com?user=nenikitov&hide_border=true&theme=default"
+    />
+    <img
+        alt="Commit streak"
+        src="https://streak-stats.demolab.com?user=nenikitov&hide_border=true&theme=default"
+    >
+</picture>
 
 </div>
 
