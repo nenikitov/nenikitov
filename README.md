@@ -76,7 +76,7 @@ More detailed statistics [here](https://profile-summary-for-github.com/user/neni
 <picture>
     <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://github-readme-stats.vercel.app/api?username=nenikitov&count_private=true&show_icons=true&hide_border=true&theme=dark"
+        srcset="https://github-readme-stats.vercel.app/api?username=nenikitov&count_private=true&show_icons=true&hide_border=true&theme=github_dark"
     />
     <source
         media="(prefers-color-scheme: light)"
@@ -91,7 +91,7 @@ More detailed statistics [here](https://profile-summary-for-github.com/user/neni
 <picture>
     <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nenikitov&layout=compact&hide_border=true&theme=dark"
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nenikitov&layout=compact&hide_border=true&theme=github_dark"
     />
     <source
         media="(prefers-color-scheme: light)"
@@ -106,11 +106,11 @@ More detailed statistics [here](https://profile-summary-for-github.com/user/neni
 <picture>
     <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://streak-stats.demolab.com?user=nenikitov&hide_border=true&theme=dark"
+        srcset="https://streak-stats.demolab.com?user=nenikitov&hide_border=true&theme=github-dark-blue"
     />
     <source
         media="(prefers-color-scheme: light)"
-        srcset="https://streak-stats.demolab.com?user=nenikitov&hide_border=true&theme=default"
+        srcset="https://streak-stats.demolab.com?user=nenikitov&hide_border=true&theme=github-light"
     />
     <img
         alt="Commit streak"
