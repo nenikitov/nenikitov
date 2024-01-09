@@ -40,7 +40,7 @@ Self-taught programmer with experience in front- and back-end development, appli
 ![SCSS](https://img.shields.io/badge/scss-C6538C?style=for-the-badge&logo=sass&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-563D7C?style=for-the-badge&logo=css3&logoColor=white)
 
-### Frameworks
+### Frameworks / Libraries
 
 ![NestJS](https://img.shields.io/badge/nestjs-3178C6?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express](https://img.shields.io/badge/express-F1E05A?style=for-the-badge&logo=express&logoColor=black)
