@@ -57,7 +57,7 @@ Self-taught programmer with experience in front- and back-end development, appli
 ### Tools
 
 ![Linux](https://img.shields.io/badge/linux-1382BB?style=for-the-badge&logo=archlinux&logoColor=white)
-![NeoVim](https://img.shields.io/badge/linux-199F4B?style=for-the-badge&logo=neovim&logoColor=white)
+![NeoVim](https://img.shields.io/badge/vim-199F4B?style=for-the-badge&logo=neovim&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-E5651E?style=for-the-badge&logo=blender&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/unreal%20engine-2C2C2C?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-384D54?style=for-the-badge&logo=docker&logoColor=white)
