@@ -2,7 +2,7 @@
 
 # Hey, I'm Mykyta
 
-Self-taught programmer with experience in front- and back-end development, applications, and reverse engineering
+Self-taught programmer with experience in front- and back-end development, applications, and reverse engineering.
 
 </div>
 
