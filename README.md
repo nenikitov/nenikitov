@@ -76,6 +76,21 @@ More detailed statistics [here](https://profile-summary-for-github.com/user/neni
 <picture>
     <source
         media="(prefers-color-scheme: dark)"
+        srcset="https://streak-stats.demolab.com?user=nenikitov&hide_border=true&theme=github-dark-blue"
+    />
+    <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://streak-stats.demolab.com?user=nenikitov&hide_border=true&theme=github-light"
+    />
+    <img
+        alt="Commit streak"
+        src="https://streak-stats.demolab.com?user=nenikitov&hide_border=true&theme=default"
+    >
+</picture>
+
+<picture>
+    <source
+        media="(prefers-color-scheme: dark)"
         srcset="https://github-readme-stats.vercel.app/api?username=nenikitov&count_private=true&show_icons=true&hide_border=true&theme=github_dark"
     />
     <source
@@ -106,15 +121,30 @@ More detailed statistics [here](https://profile-summary-for-github.com/user/neni
 <picture>
     <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://streak-stats.demolab.com?user=nenikitov&hide_border=true&theme=github-dark-blue"
+        srcset="https://raw.githubusercontent.com/nenikitov/github-stats/master/generated/overview.svg#gh-dark-mode-only"
     />
     <source
         media="(prefers-color-scheme: light)"
-        srcset="https://streak-stats.demolab.com?user=nenikitov&hide_border=true&theme=github-light"
+        srcset="https://raw.githubusercontent.com/nenikitov/github-stats/master/generated/overview.svg#gh-light-mode-only"
     />
     <img
-        alt="Commit streak"
-        src="https://streak-stats.demolab.com?user=nenikitov&hide_border=true&theme=default"
+        alt="GitHub profile overview"
+        src="https://raw.githubusercontent.com/nenikitov/github-stats/master/generated/overview.svg"
+    >
+</picture>
+
+<picture>
+    <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://raw.githubusercontent.com/nenikitov/github-stats/master/generated/languages.svg#gh-dark-mode-only"
+    />
+    <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://raw.githubusercontent.com/nenikitov/github-stats/master/generated/languages.svg#gh-light-mode-only"
+    />
+    <img
+        alt="Languages"
+        src="https://raw.githubusercontent.com/nenikitov/github-stats/master/generated/languages.svg"
     >
 </picture>
 
@@ -124,5 +154,6 @@ Thanks to the contributors of these projects for creating these amazing trackers
 - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 - [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 - [github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter)
+- [github-stats](https://github.com/jstrieb/github-stats)
 
 </details>
